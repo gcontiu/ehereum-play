@@ -1,4 +1,4 @@
-Tooling:
+#### Tooling:
 
 - npm version 5.5.1
 - nodejs version 8.9.0
@@ -9,7 +9,7 @@ Tooling:
 - Ganache for Linux Desktop ( https://github.com/trufflesuite/ganache )
 
 
-Installing stuff:
+#### Installing stuff:
 
 - Install npm (apt get)
 
