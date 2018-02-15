@@ -17,5 +17,9 @@
 
 - Install Web3: ( npm install web3 )
 
+- run Ganache appImage:  
+chmod a+x ganache-1.0.2-x86_64.AppImage
+./ganache-1.0.2-x86_64.AppImage
+
 
 
