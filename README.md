@@ -17,6 +17,9 @@
 
 - Install Web3: ( npm install web3 )
 
+- Install solc (npm install solc).
+This is the solidity compiler.
+
 - run Ganache appImage:  
 chmod a+x ganache-1.0.2-x86_64.AppImage
 ./ganache-1.0.2-x86_64.AppImage
